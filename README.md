@@ -1,2 +1,2 @@
 # second-repo
-This is my repo for learning github
+This is my repo for learning github.
